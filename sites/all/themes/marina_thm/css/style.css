@@ -7550,4 +7550,12 @@ body {
   margin: 0;
   padding: 0;
 }
+#navbar {
+  background: #343434;
+  color: white;
+  height: 150px;
+}
+content {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */

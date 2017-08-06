@@ -27,7 +27,7 @@
   </div>
 </header>
 
-<div class="main-content">
+<content>
   <div class="container">
      <?php if (!empty($title)): ?>
         <h1 class="page-header"><?php print $title; ?></h1>
@@ -41,7 +41,7 @@
   
        <?php print render($page['content']); ?>
   </div>
-</div>
+</content>
 
   <footer class="footer">
       <div class="container ">
