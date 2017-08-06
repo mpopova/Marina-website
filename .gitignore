@@ -26,3 +26,15 @@ sites/_DS_Store
 #Ignoring css mapping files
 sites/all/themes/marina_thm/css/style.css.map
 *.css.map
+
+# NetBeans specific
+nbproject
+nbproject/*
+/nbproject
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
