@@ -7558,4 +7558,13 @@ body {
 content {
   display: block;
 }
+nav ul li a {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white !important;
+}
+nav ul li a:hover {
+  background-color: #FFACC6 !important;
+  color: white !important;
+}
 /*# sourceMappingURL=style.css.map */
