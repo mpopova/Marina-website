@@ -7553,10 +7553,12 @@ body {
 #navbar {
   background: #343434;
   color: white;
-  height: 150px;
+  width: 100%;
+  height: 90px;
 }
 content {
   display: block;
+  margin-top: 90px;
 }
 nav ul li a {
   font-weight: bold;

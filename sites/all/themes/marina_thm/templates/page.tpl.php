@@ -5,7 +5,7 @@
  * @ingroup templates
  */
 ?>
-<header id="navbar" role="banner">
+<header id="navbar" role="banner" data-spy="affix">
   <div class="container">
     <div class="navbar-header">
         <a class="logo navbar-btn pull-left" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
