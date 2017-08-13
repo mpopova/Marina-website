@@ -1,0 +1,7 @@
+name = Marina General Module
+description = Initializing needed modules.
+core = 7.x
+dependencies[] = views
+dependencies[] = jquery_update
+dependencies[] = link
+
