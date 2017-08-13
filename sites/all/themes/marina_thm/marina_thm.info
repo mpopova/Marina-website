@@ -35,7 +35,7 @@ scripts[] = 'bootstrap/js/scrollspy.js'
 scripts[] = 'bootstrap/js/tab.js'
 scripts[] = 'bootstrap/js/transition.js'
 
-scripts[] = assets/js/init.js'
+scripts[] = 'assets/js/init.js'
 
 ; Disable the CDN provider so compiled source files can be used.
 settings[bootstrap_cdn] = ''
